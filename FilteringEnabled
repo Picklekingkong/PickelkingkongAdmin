@@ -21,7 +21,7 @@
  local Notify = Notification.Notify;
 
  Notify({
-		 Description = https://discord.gg/NdYjP8Cx5K";
+		 Description = "https://discord.gg/NdYjP8Cx5K";
 		 Title = "Join the Discord Server!";
 		 Duration = 20;
 		 
